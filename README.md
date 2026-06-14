@@ -1,3 +1,1 @@
-## Hello There!
-
-... fellow nixos user and rust enthusiast here!
+didnt ever bother to really put something here...
